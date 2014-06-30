@@ -1,0 +1,21 @@
+# Important Packages that I use a lot.
+brew install git
+brew install git-flow
+brew install brew-cask
+brew install docker
+brew install boot2docker
+brew install imagemagick
+brew install wget
+brew install openssl
+brew install zsh
+
+# Other useful Packages
+brew install bash-completion
+brew install freetype
+brew install mongodb
+brew install gdbm
+brew install jpeg
+brew install libpng
+brew install pcre
+brew install libtool
+brew install tig
