@@ -1,7 +1,7 @@
 # Important Packages that I use a lot.
 brew install git
 brew install git-flow
-brew install brew-cask
+brew install caskroom/cask/brew-cask
 brew install docker
 brew install boot2docker
 brew install imagemagick
