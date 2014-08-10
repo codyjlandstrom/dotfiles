@@ -10,6 +10,7 @@ brew install openssl
 brew install zsh
 
 # Other useful Packages
+brew install aws-elasticbeanstalk
 brew install bash-completion
 brew install freetype
 brew install mongodb
@@ -17,5 +18,6 @@ brew install gdbm
 brew install jpeg
 brew install libpng
 brew install pcre
+brew install phantomjs
 brew install libtool
 brew install tig
