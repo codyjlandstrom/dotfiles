@@ -4,6 +4,7 @@ install git-flow
 install caskroom/cask/brew-cask
 install docker
 install boot2docker
+install node
 install imagemagick
 install wget
 install openssl
