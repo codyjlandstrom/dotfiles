@@ -2,8 +2,10 @@
 
 cask install sublime-text
 cask install github
-cask install virtualbox
+cask install mysqlworkbench
 cask install proxpn
+cask install vagrant
+cask install virtualbox
 
 # Browsers: Major
 cask install google-chrome
@@ -18,4 +20,7 @@ cask install google-drive
 cask install google-hangouts
 cask install hipchat
 cask install imageoptim
+cask install openoffice
 cask install sequel-pro
+cask install transmit
+cask install vlc
